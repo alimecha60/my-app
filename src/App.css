@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.pattribute{
+  width:auto;
+  height:50px;
+  background-color:whitesmoke;
+  color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
